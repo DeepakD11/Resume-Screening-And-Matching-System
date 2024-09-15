@@ -7,7 +7,7 @@
 ### Clone the Repository
 ```
 git clone https://github.com/DeepakD11/Resume-Screening-And-Matching-System.git
-cd your-repository-name
+cd Resume-Screening-And-Matching-System
 ```
 ---
 ### Folder Structure
