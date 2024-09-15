@@ -17,8 +17,8 @@ resume-screening-system/
 ├──reinforcementLearning.py      # Reinforcement Learning for Feedback Mechanism
 ├── requirements.txt             # Project dependencies
 ├── README.md                    # Project documentation
-├── resume_data.json             # Stored extracted resume data (if any , generates when you run the streamlit application) 
-├── job_description.json         # Stored extracted job description data (if any, generates when you run the streamlit application)
+├── resume_data.json             # Stored extracted resume data ( generates when you run the streamlit application) 
+├── job_description.json         # Stored extracted job description data (generates when you run the streamlit application)
 └── sample resume inputs          # you can find some sample resume pdfs or docxs
 ```
 
