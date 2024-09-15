@@ -6,6 +6,22 @@
 ---
 ### Clone the Repository
 ---
+### Folder Structure
+```
+resume-screening-system/
+│
+├── nebula9.ipynb               # Step by Step process and Methodology file
+├── app.py                       # Streamlit application file
+├── functions.py               # Helper functions are initialized
+├──reinforcementLearning.py      # Reinforcement Learning for Feedback Mechanism
+├── requirements.txt             # Project dependencies
+├── README.md                    # Project documentation
+├── resume_data.json             # Stored extracted resume data (if any)
+├── job_description.json         # Stored extracted job description data (if any)
+└── sample resume inputs          # you can find some sample resume pdfs or docxs
+```
+
+---
 ### Installing / Getting started
 #### 1.Generating the Groq Api Key
 * Open the Groq website by [click here](https://console.groq.com/keys) and sign in.
