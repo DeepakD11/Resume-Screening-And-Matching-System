@@ -1,0 +1,41 @@
+[
+    {
+        "file_name": "software-engineer-resume-example.pdf",
+        "resume_data": {
+            "Name": "Charles McTurland",
+            "email_id": "cmcturland@email.com",
+            "mob_number": "(123) 456-7890",
+            "qualification": "B.S. Computer Science",
+            "experience": "Software Engineer",
+            "skills": "Python (Django), Javascript (NodeJS, ReactJS, jQuery), SQL (MySQL, PostgreSQL, NoSQL), HTML5/CSS, AWS, Unix, Git",
+            "certification": "",
+            "achievement": "Improved yearly revenue by $1.4M, improved page speed by 15%, increased efficiency by 18%, improved CTR by 3%, increased contributions by 12%, increased reporting speed by 24%, reduced number of bugs reported by 11% month over month"
+        }
+    },
+    {
+        "file_name": "VIVEK_BMU_Law.pdf",
+        "resume_data": {
+            "Name": "S VIVEK VARDHAN REDDY",
+            "email_id": "vivekvardhan.reddys.21bll@bmu.edu.in",
+            "mob_number": "+91 9342209561",
+            "qualification": "B.A. LL.B. (Hons.)",
+            "experience": "",
+            "skills": "",
+            "certification": "",
+            "achievement": ""
+        }
+    },
+    {
+        "file_name": "project manager.pdf",
+        "resume_data": {
+            "Name": "Michael Johnson",
+            "email_id": "michaeljohnson@example.com",
+            "mob_number": "",
+            "qualification": "Bachelor of Science in Civil Engineering",
+            "experience": "Project Manager at BuildIt (2016 - Present)",
+            "skills": "MS Project, Trello",
+            "certification": "PMP, Lean Six Sigma",
+            "achievement": ""
+        }
+    }
+]
