@@ -5,6 +5,10 @@
 * This application uses Llama3 for text extraction and spaCy model to rank resumes by similarity to a job description.
 ---
 ### Clone the Repository
+```
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
+```
 ---
 ### Folder Structure
 ```
