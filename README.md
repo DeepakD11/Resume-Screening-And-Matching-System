@@ -21,7 +21,7 @@
 ```
 git clone https://github.com/DeepakD11/Resume-Screening-And-Matching-System.git
 cd Resume-Screening-And-Matching-System
-cp .env .envexample
+cp .env1 .env
 ```
 ---
 ### Folder Structure
