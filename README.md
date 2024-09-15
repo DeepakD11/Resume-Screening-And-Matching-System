@@ -29,7 +29,7 @@ resume-screening-system/
 * Click on **Create Api Key** Button.
 * Name the project and submit.
 * Copy the Api_key and paste it someplace secure, to use it.
-* Paste yout api_key in the nebula9.ipynb and .env files.
+* Paste your api_key in the nebula9.ipynb and .env files.
 
 #### 2.Install Dependencies
 ```
