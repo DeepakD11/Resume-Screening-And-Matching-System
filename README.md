@@ -12,9 +12,13 @@
 * Click on **Create Api Key** Button.
 * Name the project and submit.
 * Copy the Api_key and paste it someplace secure, to use it.
+* Paste yout api_key in the nebula9.ipynb and .env files.
 ---
 ### Install Dependencies
 `pip install -r requirements.txt`
 
 You can find the Methodology and Flow Diagram of the project in the `nebula9.ipynb` file. Open it for complete understanding of the project.
 
+---
+### Run the Project
+`streamlit run app.py`
