@@ -10,6 +10,7 @@
 ```
 resume-screening-system/
 │
+├── .env                        # Contains the api key 
 ├── nebula9.ipynb               # Step by Step process and Methodology file
 ├── app.py                       # Streamlit application file
 ├── functions.py               # Helper functions are initialized
