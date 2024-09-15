@@ -14,7 +14,7 @@
 * Copy the Api_key and paste it someplace secure, to use it.
 ---
 ### Install Dependencies
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 
 
