@@ -1,9 +1,14 @@
 ## Output
-![WhatsApp Image 2024-09-15 at 17 50 56_42f1aa1a](https://github.com/user-attachments/assets/3361b513-286c-46af-aca5-fe07e8fadeb4)
-![WhatsApp Image 2024-09-15 at 17 51 16_e15cdbb3](https://github.com/user-attachments/assets/8758b515-8914-4c4a-985a-d7cb97ddbdbb)
-![WhatsApp Image 2024-09-15 at 17 51 35_186535d1](https://github.com/user-attachments/assets/71cf57c0-61a2-416c-989e-390b7230a4eb)
-![WhatsApp Image 2024-09-15 at 17 51 57_12fb75b6](https://github.com/user-attachments/assets/2c6cbe47-a52c-4a65-8bcf-7bc801b3b5c9)
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3361b513-286c-46af-aca5-fe07e8fadeb4" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8758b515-8914-4c4a-985a-d7cb97ddbdbb" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/71cf57c0-61a2-416c-989e-390b7230a4eb" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2c6cbe47-a52c-4a65-8bcf-7bc801b3b5c9" width="300"/></td>
+  </tr>
+</table>
 
 ---
 # Resume-Screening-And-Matching-System
