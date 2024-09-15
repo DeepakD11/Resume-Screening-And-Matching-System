@@ -16,5 +16,5 @@
 ### Install Dependencies
 `pip install -r requirements.txt`
 
-
+You can find the Methodology and Flow Diagram of the project in the `nebula9.ipynb` file. Open it for complete understanding of the project.
 
