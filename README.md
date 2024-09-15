@@ -6,7 +6,7 @@
 ---
 ### Clone the Repository
 ```
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/DeepakD11/Resume-Screening-And-Matching-System.git
 cd your-repository-name
 ```
 ---
