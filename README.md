@@ -31,12 +31,14 @@ resume-screening-system/
 * Paste yout api_key in the nebula9.ipynb and .env files.
 ---
 ### Install Dependencies
-`pip install -r requirements.txt`
-
+```
+pip install -r requirements.txt
+```
 You can find the Methodology and Flow Diagram of the project in the `nebula9.ipynb` file. Open it first for complete understanding of the project and then run the application for demo.
 
 ---
 ### Run the Project
-`streamlit run app.py`
-
+```
+streamlit run app.py
+```
 Further instructions are mentioned in the streamlit sidebar of the application once you run it.
