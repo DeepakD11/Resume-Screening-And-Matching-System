@@ -8,6 +8,7 @@
 ```
 git clone https://github.com/DeepakD11/Resume-Screening-And-Matching-System.git
 cd Resume-Screening-And-Matching-System
+cp .env .envexample
 ```
 ---
 ### Folder Structure
@@ -40,6 +41,10 @@ resume-screening-system/
 pip install -r requirements.txt
 ```
 You can find the Methodology and Flow Diagram of the project in the `nebula9.ipynb` file. Open it first for complete understanding of the project and then run the application for demo.
+
+```
+python -m spacy download en_core_web_md
+```
 
 #### 3.Run the Project
 ```
